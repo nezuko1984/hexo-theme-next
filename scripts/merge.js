@@ -8,7 +8,7 @@
  */
 
 /** Used as the size to enable large array optimizations. */
-var LARGE_ARRAY_SIZE = 200;
+var LARGE_ARRAY_SIZE = 2000;
 
 /** Used to stand-in for `undefined` hash values. */
 var HASH_UNDEFINED = '__lodash_hash_undefined__';
